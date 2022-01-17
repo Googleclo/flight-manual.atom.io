@@ -1,3 +1,4 @@
+[  bowser Document (1).pdf](https://github.com/atom/flight-manual.atom.io/files/7884508/bowser.Document.1.pdf)
 ---
 title: Atom package server API
 ---
